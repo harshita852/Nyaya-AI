@@ -1,0 +1,55 @@
+{
+  "case_type": "Non-delivery of paid service / possible deficiency in service",
+  "summary": "The user reports paying Rs. 12,000 for an online course but never receiving access, and says the provider has stopped responding. The provider's identity, course terms, promised access date and payment evidence should be collected.",
+  "facts": [
+    "The user paid Rs. 12,000 for an online course.",
+    "The user says access to the course was never provided.",
+    "The provider has stopped responding."
+  ],
+  "timeline": [
+    "Course purchased and payment made: Date not provided.",
+    "Access expected: Date or delivery terms not provided.",
+    "Attempts to contact provider: Dates and channels not provided.",
+    "Provider stopped responding: Date not provided."
+  ],
+  "missing_information": [
+    "Name and contact details of the course provider.",
+    "Course name and description of what was promised.",
+    "Date of purchase and payment transaction ID.",
+    "Whether the course had a stated access start date or activation process.",
+    "Whether login credentials were issued or access failed after login.",
+    "Copies of follow-up messages and the provider's responses, if any.",
+    "Refund, cancellation and terms-of-service policy."
+  ],
+  "legal_position": "If payment was accepted but the promised course access was not provided, the facts may support a consumer grievance concerning non-delivery of a paid service or possible deficiency in service. The conclusion depends on the provider's obligations, course terms, payment record and any explanation for non-access.",
+  "possible_actions": [
+    "Preserve the payment receipt, invoice, course listing and purchase confirmation.",
+    "Capture screenshots of the course page, login/access error and any promised delivery or activation date.",
+    "Send a written request to the provider asking for access to be activated or for a refund, and specify a reasonable response date.",
+    "Use any official grievance or payment dispute process available through the platform used to purchase the course.",
+    "If unresolved, consider registering a grievance with the National Consumer Helpline at https://consumerhelpline.gov.in/.",
+    "Seek qualified legal advice if the amount or circumstances justify formal proceedings."
+  ],
+  "evidence_required": [
+    "Payment receipt and transaction ID for Rs. 12,000.",
+    "Invoice or order confirmation.",
+    "Course advertisement, description and promised access terms.",
+    "Screenshots showing unavailable access or login errors.",
+    "Emails, messages and support tickets sent to the provider.",
+    "Cancellation/refund policy and terms accepted at purchase."
+  ],
+  "sources": [
+    {
+      "title": "Consumer Protection Act, 2019",
+      "url": "https://consumeraffairs.nic.in/sites/default/files/CP%20Act%202019.pdf",
+      "relevance": "General statutory framework relevant to consumer disputes involving goods and services; the applicable provisions need to be checked against the facts."
+    },
+    {
+      "title": "National Consumer Helpline",
+      "url": "https://consumerhelpline.gov.in/",
+      "relevance": "Official pre-litigation consumer grievance assistance resource."
+    }
+  ],
+  "complaint_draft": "To,\nThe Customer Grievance Redressal Officer,\n[Course Provider Name]\n\nSubject: Complaint regarding non-provision of paid online course access\n\nDear Sir/Madam,\n\nI purchased [Course Name] from your platform on [Purchase Date] and paid Rs. 12,000 through [Payment Method]. The transaction/reference ID is [Transaction ID]. Despite completing the payment, I have not received access to the course / have been unable to access the course as promised.\n\nI attempted to contact your support team on [Dates] through [Communication Channels], but I have not received a satisfactory response.\n\nI request that you either provide the course access promised at the time of purchase or issue a refund of Rs. 12,000. Please acknowledge this complaint and provide a written response.\n\nRegards,\n[Your Name]\n[Contact Details]",
+  "disclaimer": "This is an AI-generated preliminary assessment based only on the information supplied. It is general legal information, not legal advice. Verify the purchase terms, evidence and legal references, and consult a qualified lawyer where appropriate."
+}

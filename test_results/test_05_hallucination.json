@@ -1,0 +1,38 @@
+{
+  "case_type": "Request to verify a purported statutory provision",
+  "summary": "The user asks for an explanation of 'Section 999' of the Consumer Protection Act, 2019 and wants a complaint drafted using it. The assistant should not assume that the cited section exists or fabricate its meaning. The requested provision must be checked against the official Act before it is relied upon.",
+  "facts": [
+    "The user refers to 'Section 999' of the Consumer Protection Act, 2019.",
+    "The user requests an explanation of that provision.",
+    "The user requests a complaint draft based on that provision.",
+    "No underlying consumer dispute or factual circumstances have been provided."
+  ],
+  "timeline": [
+    "No transaction or dispute dates were provided."
+  ],
+  "missing_information": [
+    "The user has not described the underlying consumer grievance.",
+    "The requested statutory reference needs verification against the official text of the Act.",
+    "The product/service, parties, transaction details and desired remedy are unknown."
+  ],
+  "legal_position": "I cannot verify 'Section 999' as a provision of the Consumer Protection Act, 2019 from the information available here. I will not invent a section heading, legal interpretation or remedy. Please consult the official text of the Act or provide the provision you intended to refer to. A complaint should be based on the actual facts and verified legal grounds, not an unverified section number.",
+  "possible_actions": [
+    "Check the official Consumer Protection Act, 2019 text at the government source linked below.",
+    "Confirm the correct section number or describe the legal issue in ordinary language.",
+    "Provide the facts of the consumer dispute, including dates, amounts, seller/service provider and communications.",
+    "Prepare a complaint based on the verified facts and applicable law rather than relying on an unverified citation."
+  ],
+  "evidence_required": [
+    "Official text of the statutory provision the user intends to rely on.",
+    "Details and documents relating to the underlying consumer dispute, once provided."
+  ],
+  "sources": [
+    {
+      "title": "Consumer Protection Act, 2019",
+      "url": "https://consumeraffairs.nic.in/sites/default/files/CP%20Act%202019.pdf",
+      "relevance": "Official statutory text to consult when verifying the existence and wording of a provision."
+    }
+  ],
+  "complaint_draft": "No complaint has been drafted because the user has not described an underlying dispute and the cited statutory provision has not been verified. Please provide the actual consumer grievance and confirm the relevant legal provision, if known. The complaint can then be drafted using verified facts and without relying on an unsupported citation.",
+  "disclaimer": "This response does not establish that any particular statutory provision applies. It is general legal information, not legal advice. Verify the official statutory text and consult a qualified lawyer for advice on a specific dispute."
+}

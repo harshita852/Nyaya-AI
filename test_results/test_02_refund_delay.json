@@ -1,0 +1,57 @@
+{
+  "case_type": "Delayed refund / cancellation grievance",
+  "summary": "The user says an online order worth Rs. 5,000 was cancelled three weeks ago and the company confirmed the cancellation, but the refund has not arrived. The payment method, cancellation confirmation, promised refund timeline and current transaction status are needed to assess the delay.",
+  "facts": [
+    "The order was placed online.",
+    "The stated order value is Rs. 5,000.",
+    "The order was cancelled approximately three weeks ago.",
+    "The company confirmed the cancellation.",
+    "The user reports that the refund has not been received."
+  ],
+  "timeline": [
+    "Order placed: Date not provided.",
+    "Order cancelled: Approximately three weeks before the complaint; exact date not provided.",
+    "Cancellation confirmation received: Date not provided.",
+    "Refund still outstanding at the time of the complaint."
+  ],
+  "missing_information": [
+    "Order ID and name of the company/platform.",
+    "Exact order and cancellation dates.",
+    "Cancellation confirmation or reference number.",
+    "Payment method and transaction/reference ID.",
+    "Whether the company communicated a refund processing timeline.",
+    "Whether the bank/payment provider shows a pending, reversed or completed refund.",
+    "Any prior complaint ticket numbers or written responses."
+  ],
+  "legal_position": "Failure to process a confirmed cancellation refund may give rise to a consumer grievance, depending on the contract, cancellation policy, payment method and reasons for delay. The exact refund obligation and timeline cannot be determined from the information provided alone.",
+  "possible_actions": [
+    "Check the order page and cancellation confirmation for the stated refund timeline.",
+    "Check the original payment method and bank statement for a pending or reversed credit.",
+    "Write to the company's grievance/customer support team with the order ID, cancellation confirmation and transaction reference.",
+    "Ask the company to confirm the refund initiation date, refund reference number and expected credit date.",
+    "If unresolved, consider registering a grievance with the National Consumer Helpline at https://consumerhelpline.gov.in/.",
+    "Contact the bank or payment provider if the company claims the refund was processed but the credit is not visible."
+  ],
+  "evidence_required": [
+    "Order confirmation and invoice.",
+    "Cancellation request and cancellation confirmation.",
+    "Payment receipt and transaction/reference ID.",
+    "Bank or card statement showing the original debit and absence of refund.",
+    "Company messages stating the refund timeline or processing status.",
+    "Support emails, chat transcripts and complaint ticket numbers."
+  ],
+  "sources": [
+    {
+      "title": "Consumer Protection Act, 2019",
+      "url": "https://consumeraffairs.nic.in/sites/default/files/CP%20Act%202019.pdf",
+      "relevance": "General statutory framework for consumer rights and remedies; the specific legal position depends on the transaction and applicable terms."
+    },
+    {
+      "title": "National Consumer Helpline",
+      "url": "https://consumerhelpline.gov.in/",
+      "relevance": "Official channel for seeking assistance with consumer grievances."
+    }
+  ],
+  "complaint_draft": "To,\nThe Customer Grievance Redressal Officer,\n[Company Name]\n\nSubject: Request for processing of pending refund of Rs. 5,000\n\nDear Sir/Madam,\n\nI placed an online order bearing Order ID [Order ID] for Rs. 5,000 on [Order Date]. I cancelled the order on [Cancellation Date], and your platform confirmed the cancellation under reference [Reference Number]. However, the refund has not been credited to my original payment method as of [Date].\n\nThe payment was made using [Payment Method], with transaction/reference ID [Transaction ID]. I request you to confirm whether the refund has been initiated, provide the refund reference number and expected credit date, and arrange the refund if it has not yet been processed.\n\nPlease acknowledge this complaint and provide a written update within a reasonable time.\n\nRegards,\n[Your Name]\n[Contact Details]",
+  "disclaimer": "This is an AI-generated preliminary assessment based only on the information supplied. It is general legal information, not legal advice. Verify the refund status, applicable terms and legal references, and consult a qualified lawyer where appropriate."
+}

@@ -1,0 +1,57 @@
+{
+  "case_type": "Defective product / possible deficiency in consumer service",
+  "summary": "The user reports purchasing a laptop for Rs. 60,000 from an online marketplace and receiving it with a broken screen. The seller has refused replacement or refund. The purchase, delivery condition, seller's response and applicable return policy should be documented before deciding the next step.",
+  "facts": [
+    "The product is a laptop.",
+    "The stated purchase price is Rs. 60,000.",
+    "The laptop was purchased through an online marketplace.",
+    "The laptop allegedly arrived with a broken screen.",
+    "The seller has refused replacement or refund."
+  ],
+  "timeline": [
+    "Purchase date: Not provided.",
+    "Laptop delivered with a broken screen: Delivery date not provided.",
+    "Seller refused replacement or refund: Date and communication method not provided."
+  ],
+  "missing_information": [
+    "Purchase date and order ID.",
+    "Name of the marketplace and seller.",
+    "Date of delivery and whether the damage was recorded at delivery.",
+    "Whether an unboxing video, delivery photographs or inspection report exists.",
+    "Whether the user contacted the marketplace as well as the seller.",
+    "The seller's written reason for refusing replacement or refund.",
+    "The applicable return, replacement and warranty terms."
+  ],
+  "legal_position": "A product delivered with physical damage may raise a consumer grievance concerning defective goods and/or the seller's or marketplace's handling of the complaint. Whether the Consumer Protection Act, 2019 or other remedies apply to the particular facts requires review of the transaction, seller details, evidence and applicable terms. This preliminary assessment is not a legal finding.",
+  "possible_actions": [
+    "Preserve the invoice, order confirmation, payment proof and delivery records.",
+    "Take clear photographs and a short video showing the damaged screen and the laptop's condition.",
+    "Send a written complaint to the seller and marketplace, requesting a replacement or refund and keeping the ticket number.",
+    "Review the marketplace's return and replacement policy and the product warranty.",
+    "If the grievance remains unresolved, consider registering it with the National Consumer Helpline at https://consumerhelpline.gov.in/.",
+    "Consider obtaining advice from a qualified lawyer if the dispute is not resolved or formal proceedings are being considered."
+  ],
+  "evidence_required": [
+    "Invoice and order confirmation.",
+    "Payment receipt or bank/card statement showing the transaction.",
+    "Delivery receipt and packaging photographs.",
+    "Photographs/video of the broken screen.",
+    "Unboxing video, if available.",
+    "Copies of emails, chat transcripts and complaint ticket numbers.",
+    "Applicable return policy and warranty documents."
+  ],
+  "sources": [
+    {
+      "title": "Consumer Protection Act, 2019",
+      "url": "https://consumeraffairs.nic.in/sites/default/files/CP%20Act%202019.pdf",
+      "relevance": "Primary statutory reference for consumer rights and remedies. The relevant provisions should be checked against the facts before relying on a particular section."
+    },
+    {
+      "title": "National Consumer Helpline",
+      "url": "https://consumerhelpline.gov.in/",
+      "relevance": "Official pre-litigation grievance redressal channel and consumer information resource."
+    }
+  ],
+  "complaint_draft": "To,\nThe Customer Grievance Redressal Officer,\n[Marketplace / Seller Name]\n\nSubject: Complaint regarding delivery of a laptop with a broken screen\n\nDear Sir/Madam,\n\nI purchased a laptop for Rs. 60,000 through your platform. The order ID is [Order ID], and the purchase/delivery date was [Date]. On receiving the product, I found that its screen was broken.\n\nI contacted [Seller / Marketplace] on [Date(s)] through [Email / Chat / Phone] and requested a replacement or refund. However, my request was refused. The relevant invoice, photographs and communication records are available and can be provided for review.\n\nI request that you investigate this complaint and provide an appropriate resolution, preferably a replacement with a product in proper condition or a refund of the amount paid. Please provide a written response and complaint reference number.\n\nRegards,\n[Your Name]\n[Contact Details]\n[Email Address]",
+  "disclaimer": "This is an AI-generated preliminary assessment based only on the information supplied. It is general legal information, not legal advice. Verify all facts, applicable terms and legal references, and consult a qualified lawyer where appropriate."
+}

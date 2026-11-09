@@ -1,0 +1,48 @@
+{
+  "case_type": "Unspecified consumer grievance — more information required",
+  "summary": "The user states that an online company cheated them but has not described the transaction or what happened. There is not enough information to identify the nature of the dispute, assess possible consumer remedies or draft a fact-specific complaint.",
+  "facts": [
+    "The user had an interaction with an online company.",
+    "The user believes the company treated them unfairly or cheated them.",
+    "No transaction, product, service, date or amount has been specified."
+  ],
+  "timeline": [
+    "Date of interaction or transaction: Not provided.",
+    "Date the problem occurred: Not provided.",
+    "Attempts to contact the company: Not provided."
+  ],
+  "missing_information": [
+    "What did you purchase or pay for, if anything?",
+    "What exactly did the company promise and what actually happened?",
+    "What is the company's name and website/platform?",
+    "When did the transaction or incident occur?",
+    "How much money is involved?",
+    "How did you pay, and do you have a transaction ID or receipt?",
+    "Have you contacted the company? If yes, what response did you receive?",
+    "What outcome are you seeking: refund, replacement, service delivery or another remedy?"
+  ],
+  "legal_position": "No reliable legal assessment can be made from the current description. The phrase 'cheated me' is a conclusion rather than a description of the underlying events. More facts are needed to determine whether this is a consumer dispute, a payment issue, a contractual disagreement or another type of matter.",
+  "possible_actions": [
+    "Write a short chronological account of what happened, including dates and amounts.",
+    "Preserve invoices, payment records, screenshots, emails and chat messages.",
+    "Do not share passwords, OTPs, full card numbers or other sensitive credentials when describing the matter.",
+    "Provide the company name, transaction details and the specific problem so the issue can be assessed.",
+    "If money was taken through a potentially fraudulent transaction, promptly contact your bank/payment provider and consider reporting it through appropriate official channels."
+  ],
+  "evidence_required": [
+    "Order confirmation or contract, if applicable.",
+    "Payment receipt or transaction reference, if money was paid.",
+    "Screenshots of the company's offer or representation.",
+    "Emails, messages or support tickets.",
+    "Any cancellation, refund or delivery confirmation."
+  ],
+  "sources": [
+    {
+      "title": "National Consumer Helpline",
+      "url": "https://consumerhelpline.gov.in/",
+      "relevance": "Official resource for consumer grievance information; whether the matter falls within its scope depends on the facts."
+    }
+  ],
+  "complaint_draft": "A fact-specific complaint cannot responsibly be drafted yet because the underlying events are unknown. Please provide the company name, what you purchased or paid for, the date and amount, what went wrong, the steps already taken and the resolution you want. A complaint can then be prepared without inventing facts.",
+  "disclaimer": "This is a preliminary information-gathering response, not a legal conclusion or legal advice. The nature of the matter cannot be assessed until the missing facts are supplied."
+}
