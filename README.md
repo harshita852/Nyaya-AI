@@ -12,6 +12,26 @@ The project, **Nyaya AI – Consumer Rights Assistant**, is live and accessible 
 
 [**https://nyaya-ai-harshta.streamlit.app/**](https://nyaya-ai-harshta.streamlit.app/)
 
+## Application Screenshots
+
+### Home Page
+![Home Page](screenshots/1.png)
+
+### AI-Powered Legal Analysis
+![Legal Analysis](screenshots/2.png)
+
+### Evidence & Timeline
+![Evidence & Timeline](screenshots/3.png)
+
+### Complaint Letter
+![Complaint Letter](screenshots/4.png)
+
+### Legal Sources
+![Legal Souces](screenshots/5.png)
+
+### View & Download Raw AI Output
+![Raw AI Output](screenshots/6.png)
+
 ## Features
 
 ### 1. AI-Powered Complaint Analysis
