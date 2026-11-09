@@ -6,6 +6,12 @@ Nyaya AI is an AI-powered consumer rights assistant designed to help ordinary pe
 
 Users can describe their problems in natural language and receive a structured analysis containing relevant facts, possible legal options, missing information, evidence requirements and a professionally drafted complaint.
 
+## Live Deployment
+
+The project, **Nyaya AI – Consumer Rights Assistant**, is live and accessible at the following link:
+
+[**https://nyaya-ai-harshta.streamlit.app/**](https://nyaya-ai-harshta.streamlit.app/)
+
 ## Features
 
 ### 1. AI-Powered Complaint Analysis
@@ -87,7 +93,7 @@ nyaya/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/nyaya.git
+git clone https://github.com/harshita852/Nyaya-AI.git
 cd nyaya
 ```
 
