@@ -10,7 +10,7 @@ Users can describe their problems in natural language and receive a structured a
 
 The project, **Nyaya AI – Consumer Rights Assistant**, is live and accessible at the following link:
 
-[**https://nyaya-ai-harshta.streamlit.app/**](https://nyaya-ai-harshta.streamlit.app/)
+[**https://nyaya-ai-hrshta.streamlit.app/**](https://nyaya-ai-hrshta.streamlit.app/)
 
 ## Application Screenshots
 
