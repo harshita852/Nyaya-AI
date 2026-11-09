@@ -32,6 +32,9 @@ The project, **Nyaya AI – Consumer Rights Assistant**, is live and accessible 
 ### View & Download Raw AI Output
 ![Raw AI Output](screenshots/6.png)
 
+### Multilingual Support
+![Multilingual Support](screenshots/7.png)
+
 ## Features
 
 ### 1. AI-Powered Complaint Analysis
